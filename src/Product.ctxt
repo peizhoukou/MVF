@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\r\n\ @author\ maclee\r\n
+comment1.params=
+comment1.target=Product()
+comment10.params=expiryDate
+comment10.target=void\ setExpiryDate(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=productId\ productName\ description\ expiryDate
+comment2.target=Product(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getProductId()
+comment4.params=productId
+comment4.target=void\ setProductId(int)
+comment5.params=
+comment5.target=java.lang.String\ getProductName()
+comment6.params=productName
+comment6.target=void\ setProductName(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getDescription()
+comment8.params=description
+comment8.target=void\ setDescription(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getExpiryDate()
+numComments=12

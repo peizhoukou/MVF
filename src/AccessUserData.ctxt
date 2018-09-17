@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AccessUserData
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AccessUserData\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ viewUsers()
+comment2.params=user
+comment2.target=void\ register(User)
+comment3.params=
+comment3.target=void\ editUser()
+comment4.params=userId
+comment4.target=void\ removeUser(int)
+comment5.params=
+comment5.target=void\ writeUser()
+comment6.params=
+comment6.target=UserList\ readUser()
+numComments=7

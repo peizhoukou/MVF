@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AccessProductData
+comment0.text=\r\n\r\n\ @author\ maclee\r\n
+comment1.params=
+comment1.target=void\ viewProduct()
+comment2.params=product
+comment2.target=void\ addProduct(Product)
+comment3.params=product
+comment3.target=void\ editProduct(Product)
+comment4.params=productId
+comment4.target=void\ removeProduct(int)
+comment5.params=
+comment5.target=void\ writeProduct()
+comment6.params=
+comment6.target=ProductList\ readProduct()
+numComments=7

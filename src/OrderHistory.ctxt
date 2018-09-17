@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OrderHistory
+comment0.text=\r\n\r\n\ @author\ Administrator\r\n
+comment1.params=orders
+comment1.target=OrderHistory(java.util.ArrayList)
+comment2.params=
+comment2.target=OrderHistory()
+comment3.params=
+comment3.target=java.util.ArrayList\ getOrders()
+comment4.params=orders
+comment4.target=void\ setOrders(java.util.ArrayList)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
